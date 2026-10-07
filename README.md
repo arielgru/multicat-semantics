@@ -1,6 +1,8 @@
 # Agda formalisation of "Multicategorical Semantics for Untyped Effects"
 
-Cohen & Grunfeld, submitted to MFPS 2026 (`MFPS_2026_paper_15.pdf`).
+By Liron Cohen & Ariel Grunfeld, submitted to MFPS 2026.
+
+This is an autoformalization of the paper in Agda using Claude Fable 5.1.
 
 Every module is checked with `--safe --without-K` (Agda 2.8.0, agda-stdlib 2.4).
 There are no postulates and no holes. Every theorem, proposition, lemma and
