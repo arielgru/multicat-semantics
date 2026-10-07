@@ -1,0 +1,4 @@
+name: mfps26
+include: src
+depend: standard-library
+flags: -WnoUnsupportedIndexedMatch
